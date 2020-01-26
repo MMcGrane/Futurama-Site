@@ -1,0 +1,68 @@
+body { 
+background-color:#db2130;
+padding: 14px 16px;
+background: url(https://i.pinimg.com/originals/5c/d6/ba/5cd6bacfc547f89a6b3b7c8d1dc557ab.jpg);
+}
+
+p {
+    font-family: Android Insomnia Regular;
+}
+
+h5 {
+font-family: Android Insomnia Regular;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #333;
+  
+}
+
+li {
+    float: left;
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#111
+}
+
+li:last-child {
+    border-right: none;
+}
+
+h3 {
+    font-family: Futurama Title Font;
+    color: #A12318;
+}
+
+.Facts {
+ background-color: #111;
+ color:white;
+ margin: 20px;
+ padding: 20px;
+
+}
+
+.general {
+    background-color: #000000;
+    color:white;
+    margin: 20px;
+    padding: 20px;
+}
+
+h4 {
+    font-family: Android Insomnia Regular;
+}
+
